@@ -1,2 +1,2 @@
-# pyhton
+# python
 testing of some samples
